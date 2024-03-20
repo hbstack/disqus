@@ -1,0 +1,5 @@
+html {
+  &[data-bs-theme=dark] {
+    color-scheme: unset;
+  }
+}
