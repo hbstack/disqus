@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.2](https://github.com/hbstack/disqus/compare/v0.1.1...v0.1.2) (2024-08-05)
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency stylelint-scss to v6.4.1 ([bd8312b](https://github.com/hbstack/disqus/commit/bd8312b61eccdd7ebb79d7ff3f35d65843d0af77))
+* **deps:** update dependency stylelint-scss to v6.5.0 ([79c7080](https://github.com/hbstack/disqus/commit/79c7080d9cdc763ea14fde4ae297f3de5547708f))
+
 ## [0.1.1](https://github.com/hbstack/disqus/compare/v0.1.0...v0.1.1) (2024-03-20)
 
 
